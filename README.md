@@ -32,7 +32,7 @@
 2. Eseguo il comando npm create vite@latest . (se sono nella cartella del progetto, altrimenti solo npm create vite@latest)
 3. Se chiede di eliminare eventuali file, rispondere "y" (se sono file eliminabili)
 4. Seleziono il framework giusto (cioè Vue)
-5. Seleziono la variante di JS giusta (cioè JavaScript)
+5. Seleziono la variante di JS giusta (cioè JavaScript Vanilla)
 6. Una volta completata l'inizializzazione del progetto tramite il pacchetto Vite, possiamo provarlo direttamente eseguendo i 2 comandi:
     1. npm install -> Serve per installare tutte le dipendenze del nostro progetto (che troviamo nel file package.json divise in 2 sezioni)
     2. npm run dev -> Avvia il server locale che ci consente di compilare il progetto e di visualizzarlo nel browser

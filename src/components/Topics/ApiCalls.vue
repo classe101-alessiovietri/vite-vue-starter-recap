@@ -53,7 +53,7 @@ export default {
             Numeri
         </h2>
         <ul>
-            <li v-for="number in numbers">
+            <li v-for="(number, i) in numbers" :key="i">
                 {{ number }}
             </li>
         </ul>
